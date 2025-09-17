@@ -1,13 +1,13 @@
 {
-  "heading": "Europæere pessimistiske med hensyn til EU's fremtid",
-  "subheading": "Generel procentdel af mennesker, der er pessimistiske med hensyn til EU's fremtid; EU-gennemsnit: 35 %",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "af folk",
+  "heading": "Europæere pessimistiske omkring EU's fremtid",
+  "subheading": "Den generelle procentdel af mennesker, der er pessimistiske med hensyn til EU's fremtid; gennemsnit for Den Europæiske Union: 35 %",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "af mennesker",
   "textSourceDescription": "Kilde",
   "textSource": "Eurobarometer",
-  "textNoteDescription": "Bemærk",
+  "textNoteDescription": "Note",
   "textNote": "",
-  "textDataAccess": "Få adgang til data",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

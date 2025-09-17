@@ -1,13 +1,13 @@
 {
-  "heading": "Europenii pesimiști cu privire la viitorul UE",
-  "subheading": "Procentul general de oameni care sunt pesimiști cu privire la viitorul UE; Media Uniunii Europene: 35%",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "al oamenilor",
+  "heading": "Europenii sunt pesimiști în privința viitorului UE",
+  "subheading": "Procentul general de persoane pesimiste în ceea ce privește viitorul UE; media Uniunii Europene: 35%",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "de oameni",
   "textSourceDescription": "Sursă",
   "textSource": "Eurobarometru",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

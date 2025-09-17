@@ -1,13 +1,13 @@
 {
   "heading": "Europiečiai pesimistiškai vertina ES ateitį",
-  "subheading": "Bendras žmonių, kurie pesimistiškai vertina ES ateitį, procentas; Europos Sąjungos vidurkis: 35 proc.",
+  "subheading": "Bendras pesimistiškai į ES ateitį žiūrinčių žmonių procentas; Europos Sąjungos vidurkis: 35 %",
   "legend1": "Nėra duomenų",
   "tooltip1": "žmonių",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurobarometras",
   "textNoteDescription": "Pastaba",
   "textNote": "",
-  "textDataAccess": "Pasiekite duomenis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

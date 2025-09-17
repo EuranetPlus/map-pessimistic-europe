@@ -1,7 +1,7 @@
 {
-  "heading": "Eurooppalaiset ovat pessimistisiä EU:n tulevaisuuden suhteen",
-  "subheading": "Niiden ihmisten yleinen prosenttiosuus, jotka suhtautuvat pessimistisesti EU:n tulevaisuuteen; Euroopan unionin keskiarvo: 35 %",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Eurooppalaiset pessimistisiä EU:n tulevaisuudesta",
+  "subheading": "EU:n tulevaisuutta pessimistisesti suhtautuvien ihmisten yleinen prosenttiosuus; Euroopan unionin keskiarvo: 35 %",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "ihmisistä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurobarometri",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

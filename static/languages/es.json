@@ -1,13 +1,13 @@
 {
-  "heading": "Europeos pesimistas sobre el futuro de la UE",
-  "subheading": "Porcentaje general de personas pesimistas sobre el futuro de la UE; Media Unión Europea: 35%",
-  "legend1": "Datos no disponibles",
-  "tooltip1": "de la gente",
+  "heading": "Los europeos se muestran pesimistas sobre el futuro de la UE",
+  "subheading": "Porcentaje general de personas que son pesimistas sobre el futuro de la UE; media de la Unión Europea: 35%",
+  "legend1": "No hay datos disponibles",
+  "tooltip1": "de personas",
   "textSourceDescription": "Fuente",
   "textSource": "Eurobarómetro",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://europa.eu/eurobarómetro/encuestas/detalle/2872",
+  "textCountryClick": "Haga clic para más información"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Az európaiak pesszimisták az EU jövőjét illetően",
-  "subheading": "Az EU jövőjével kapcsolatban pesszimisták általános százalékos aránya; Európai Uniós átlag: 35%",
-  "legend1": "Nincs elérhető adat",
+  "subheading": "Az EU jövőjét pesszimisták aránya; az Európai Unió átlaga: 35%",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "emberek",
   "textSourceDescription": "Forrás",
   "textSource": "Eurobarométer",
-  "textNoteDescription": "jegyzet",
+  "textNoteDescription": "Jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

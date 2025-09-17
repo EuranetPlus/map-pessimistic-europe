@@ -1,13 +1,13 @@
 {
   "heading": "Europäer blicken pessimistisch in die Zukunft der EU",
-  "subheading": "Allgemeiner Prozentsatz der Menschen, die die Zukunft der EU pessimistisch sehen; EU-Durchschnitt: 35 %",
+  "subheading": "Gesamtanteil der Menschen, die pessimistisch in Bezug auf die Zukunft der EU sind; Durchschnitt der Europäischen Union: 35 %",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "von Leuten",
+  "tooltip1": "von Menschen",
   "textSourceDescription": "Quelle",
   "textSource": "Eurobarometer",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

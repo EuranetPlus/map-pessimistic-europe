@@ -1,7 +1,7 @@
 {
-  "heading": "Eiropieši ir pesimistiski noskaņoti par ES nākotni",
-  "subheading": "To cilvēku kopējais procents, kuri ir pesimistiski noskaņoti par ES nākotni; Eiropas Savienībā vidēji: 35%",
-  "legend1": "Nav pieejami dati",
+  "heading": "Eiropieši pesimistiski raugās uz ES nākotni",
+  "subheading": "Kopējais to cilvēku īpatsvars, kuri ir pesimistiski noskaņoti par ES nākotni; Eiropas Savienības vidējais rādītājs: 35 %",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "cilvēku",
   "textSourceDescription": "Avots",
   "textSource": "Eirobarometrs",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Europljani su pesimistični u pogledu budućnosti EU",
-  "subheading": "Opći postotak ljudi koji su pesimistični u pogledu budućnosti EU; Prosjek Europske unije: 35%",
+  "heading": "Europljani pesimistični u pogledu budućnosti EU",
+  "subheading": "Opći postotak ljudi koji su pesimistični u pogledu budućnosti EU; prosjek Europske unije: 35%",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "od ljudi",
+  "tooltip1": "ljudi",
   "textSourceDescription": "Izvor",
   "textSource": "Eurobarometar",
   "textNoteDescription": "Bilješka",
   "textNote": "",
-  "textDataAccess": "Pristupite podacima",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
   "textCountryClick": "Kliknite za više informacija"
 }

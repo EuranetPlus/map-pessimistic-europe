@@ -1,6 +1,6 @@
 {
   "heading": "Europeanen pessimistisch over de toekomst van de EU",
-  "subheading": "Algemeen percentage mensen dat pessimistisch is over de toekomst van de EU; Gemiddelde Europese Unie: 35%",
+  "subheading": "Algemeen percentage mensen dat pessimistisch is over de toekomst van de EU; gemiddelde voor de Europese Unie: 35%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van mensen",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

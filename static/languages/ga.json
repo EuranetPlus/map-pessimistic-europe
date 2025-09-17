@@ -1,13 +1,13 @@
 {
-  "heading": "Na hEorpaigh doirbh faoi thodhchaí an AE",
-  "subheading": "Céatadán ginearálta daoine atá doirbh faoi thodhchaí an AE; Meán an Aontais Eorpaigh: 35%",
+  "heading": "Eorpacha amhrasach faoi thodhchaí an AE",
+  "subheading": "Céatadán ginearálta na ndaoine atá amhrasach faoi thodhchaí an AE; meán an Aontais Eorpaigh: 35%",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "de dhaoine",
   "textSourceDescription": "Foinse",
-  "textSource": "Eorabharaiméadair",
+  "textSource": "Eorabharaiméadar",
   "textNoteDescription": "Nóta",
   "textNote": "",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

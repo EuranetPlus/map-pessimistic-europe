@@ -1,13 +1,13 @@
 {
-  "heading": "Europejczycy pesymistycznie oceniają przyszłość UE",
-  "subheading": "Ogólny odsetek osób pesymistycznie oceniających przyszłość UE; Średnia Unii Europejskiej: 35%",
+  "heading": "Europejczycy pesymistycznie nastawieni do przyszłości UE",
+  "subheading": "Ogólny odsetek osób pesymistycznie nastawionych do przyszłości UE; średnia dla Unii Europejskiej: 35%",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "ludzi",
   "textSourceDescription": "Źródło",
   "textSource": "Eurobarometr",
   "textNoteDescription": "Notatka",
   "textNote": "",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://europa.eu/eurobarometr/surveys/detail/2872",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2872",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }
